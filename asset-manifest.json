@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Bitcoin-Test-App/static/js/main.43cf0144.js",
+    "index.html": "/Bitcoin-Test-App/index.html",
+    "main.43cf0144.js.map": "/Bitcoin-Test-App/static/js/main.43cf0144.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.43cf0144.js"
+  ]
+}
